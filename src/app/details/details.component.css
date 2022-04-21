@@ -1,0 +1,77 @@
+.landing {
+    background-image: url("https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGFydHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
+    background-repeat: no-repeat;
+    color: white;
+    background-size: auto;
+    height: 500px;
+    width: 700px;
+    background-position: ce;
+}
+
+body {
+    background-color: #0D1B2A;
+}
+
+.land {
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    color: aliceblue;
+}
+
+.about {
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 40px;
+    font-size: 20px;
+    font-family: 'Kaushan Script', cursive;
+    color: aliceblue;
+}
+
+#porfolio {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 18%;
+    margin-right: 16%;
+    font-family: 'Kaushan Script', cursive;
+    color: aliceblue;
+}
+
+.col-md-3 img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.portfolio h2 {
+    text-align: center;
+    padding-top: 40px;
+    font-family: 'Kaushan Script', cursive;
+    color: aliceblue;
+}
+
+.title {
+    padding: 6px;
+    font-family: 'Kaushan Script', cursive;
+}
+
+footer {
+    text-align: center;
+    padding-top: 30px;
+}
+
+footer p {
+    font-family: 'Kaushan Script', cursive;
+}
+
+input[type=text],
+input[type=email],
+#mce-MMERGE6 {
+    background: transparent;
+    color: white;
+    font-size: 20px;
+    font-family: 'Kaushan Script', cursive;
+}
+
+row {
+    float: left;
+}
