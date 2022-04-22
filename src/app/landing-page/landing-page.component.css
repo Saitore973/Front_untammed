@@ -14,3 +14,38 @@
     align-items: center;
     
 }
+.host {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-fluid{
+    background-color: #0D1B2A;
+    color: white;
+}
+.row{
+    
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.card-img-top {
+    padding: 10px;
+    background-color: #1F2B38;
+}
+
+.eve{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    padding-top:10px;
+}
+.card-body{
+    background-color: #1F2B38;
+}
+
+.foot{
+    background-color:white;
+    padding:7px;
+}
